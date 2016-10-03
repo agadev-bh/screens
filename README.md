@@ -14,12 +14,12 @@ Include a iframe on your html.
 ```
 
 Include the script located on the dist folder .
-```
+```js
 <script src="screens.js"></script>
 ```
 
 Call the function passing the urls and the time to rotate the screens.
-```
+```js
 <script type="text/javascript">
 
 document.addEventListener("DOMContentLoaded", function(event) {
